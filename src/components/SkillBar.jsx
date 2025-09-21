@@ -1,6 +1,6 @@
 import React from "react";
 import JS from "../assets/Js.svg";
-import ReactLogo from "../assets/React.svg";
+import ReactLogo from "../assets/react.svg";
 import Tailwind from "../assets/Tailwind CSS.svg";
 import HTML from "../assets/HTML5.svg";
 import CSS from "../assets/CSS3.svg";
